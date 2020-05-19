@@ -1,14 +1,18 @@
-Guest Book
+Move - Near
 ==========
 
 [![Build Status](https://travis-ci.com/near-examples/guest-book.svg?branch=master)](https://travis-ci.com/near-examples/guest-book)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/near-examples/guest-book)
+Demo Video Link: https://vimeo.com/420360884
 
-<!-- MAGIC COMMENT: DO NOT DELETE! Everything above this line is hidden on NEAR Examples page -->
+Move-Near is an application powered by the NEAR Protocol that helps bring Financial and Social Inclusion. One of the major problems it solves is that of travel during this world-wide pandemic. With inputs from the local goverment I have created a system which allows everyone to travel with a Pass issued. This would stop useless travel and help prevent further spread of Coronoavirus. This systems signitficantly brings in transparency to the entire centralized system. 
+Move-Near is also a platform where people can easily create DAOs and Campaigns for fundraising in just few clicks. People from all around the globe can contirbute towards it. There is also an option to get the DAO verified which increases the chance of more funding. However, it is not a must. The sytem is robust enough to support the Scheme and Stimulus Package distribution which will ease the work a lot. 
 
-Sign in with [NEAR] and add a message to the guest book! A starter app built with an [AssemblyScript] backend and a [React] frontend.
+With Move-Near we are bringing in Social and Financial inclusion in a decentralized way. 
 
+Shout out to the Amazing NEAR team for helping me in building this application. There are tons of things I have learnt and possible have some ideas for more contribution to the NEAR community.
+
+Below are the steps to start the application.
 
 Quick Start
 ===========
